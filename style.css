@@ -1,0 +1,10 @@
+h1{
+font-size:30px !important; 
+}
+.btn-warning:hover{
+background-color:blueviolet;
+ font-size:20px !important;  
+}
+canvas {
+    border:30px solid rgb(80, 74, 74)
+}
